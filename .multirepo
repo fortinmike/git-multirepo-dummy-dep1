@@ -1,0 +1,5 @@
+---
+- !ruby/object:MultiRepo::ConfigEntry
+  id: 6ffe5397-cbb5-4fbb-a8bc-438913bc9cc1
+  path: ../git-multirepo-dummy-dep2/
+  url: git@github.com:fortinmike/git-multirepo-dummy-dep2.git
