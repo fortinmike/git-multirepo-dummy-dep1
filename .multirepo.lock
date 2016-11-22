@@ -3,4 +3,4 @@
   name: git-multirepo-dummy-dep2
   id: 6ffe5397-cbb5-4fbb-a8bc-438913bc9cc1
   head: 1b8465fcd4f9e5821640bb45ad8c22c960b64517
-  branch: testfeature
+  branch: test
